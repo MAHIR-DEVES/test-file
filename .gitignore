@@ -11,9 +11,11 @@ node_modules
 
 Components
 Home
+About
 dist
 dist-ssr
 *.local
+
 
 # Editor directories and files
 .vscode/*
