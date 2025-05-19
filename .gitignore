@@ -10,8 +10,7 @@ lerna-debug.log*
 node_modules
 
 Components
-Home
-About
+Pages/Home/
 dist
 dist-ssr
 *.local
